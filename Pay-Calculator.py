@@ -32,6 +32,7 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS employees (
 conn.commit()
 
 class PayManagerApp:
+#Lachlan was Ere
 
     def __init__(self, root):
 
@@ -54,7 +55,6 @@ class PayManagerApp:
         self.setup_gui()
 
     def setup_gui(self):
-
         frame = tk.Frame(self.root, padx=10, pady=10)
 
         frame.grid(row=0, column=0)
