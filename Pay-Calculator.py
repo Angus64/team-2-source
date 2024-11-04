@@ -32,7 +32,8 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS employees (
 conn.commit()
 
 class PayManagerApp:
-#Lachlan was Ere
+# Lachlan was Ere
+# Angus was ere too
 
     def __init__(self, root):
 
