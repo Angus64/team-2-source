@@ -35,6 +35,10 @@ class PayManagerApp:
 # Lachlan was Ere
 # Angus was ere too
 
+
+#This change was made by lachlan. Hello everyone, Lachlan here
+
+
     def __init__(self, root):
 
         self.root = root
